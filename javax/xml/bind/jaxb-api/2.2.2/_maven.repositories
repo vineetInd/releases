@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 01 11:39:22 IST 2014
+jaxb-api-2.2.2.jar>connecture-maven=
+jaxb-api-2.2.2-javadoc.jar>connecture-maven=
+jaxb-api-2.2.2.pom>connecture-maven=
+jaxb-api-2.2.2-sources.jar>central=

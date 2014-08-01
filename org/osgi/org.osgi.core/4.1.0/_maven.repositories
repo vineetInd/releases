@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 02 14:22:23 IST 2014
+org.osgi.core-4.1.0.pom>connecture-maven=
+org.osgi.core-4.1.0.jar>central=
+org.osgi.core-4.1.0.pom>central=

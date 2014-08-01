@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:25:26 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404125726545
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact soap\:soap\:jar\:sources\:2.3.1 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/soap/soap/2.3.1/soap-2.3.1-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404125725972
+http\://repo.maven.apache.org/maven2/.error=

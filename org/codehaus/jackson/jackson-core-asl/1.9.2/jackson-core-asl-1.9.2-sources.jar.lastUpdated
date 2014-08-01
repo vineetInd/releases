@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 15:42:31 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404123151367
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:jar\:sources\:1.9.2 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404123148025

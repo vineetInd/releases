@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:25:15 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404125715713
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact javax.persistence\:persistence-api\:jar\:sources\:1.0 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404125713651

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:10:19 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404124819296
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:jar\:sources\:1.5.6 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404124817950

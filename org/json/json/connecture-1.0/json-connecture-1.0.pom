@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+        <repositories>
+	<repository>
+	      <id>connecture-maven</id>
+	      <name>Connecture Maven Repository</name>
+	      <url>http://svn.ct.com:8280/nexus/content/groups/public/</url>
+	</repository>
+        </repositories>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.json</groupId>
+  <artifactId>json</artifactId>
+  <version>connecture-1.0</version>
+  <name>JSON (JavaScript Object Notation)</name>
+  <description>
+    JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+    It is easy for humans to read and write. It is easy for machines to parse and generate.
+    It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition
+    - December 1999. JSON is a text format that is completely language independent but uses
+    conventions that are familiar to programmers of the C-family of languages, including C, C++, C#,
+    Java, JavaScript, Perl, Python, and many others.
+    These properties make JSON an ideal data-interchange language.
+  </description>
+  <url>http://www.json.org/java/index.html</url>
+  <distributionManagement>
+    <repository>
+      <id>connecture-nexus-release</id>
+      <name>releases</name>
+      <url>http://svn.ct.com:8280/nexus/content/repositories/releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>connecture-nexus-snapshots</id>
+      <name>snapshots</name>
+      <url>http://svn.ct.com:8280/nexus/content/repositories/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+      <scm>
+        <connection>scm:svn:http://svn.ct.com/repos/research/org.json/tags/connecture-1.0</connection>
+        <developerConnection>scm:svn:http://svn.ct.com/repos/research/org.json/tags/connecture-1.0</developerConnection>
+        <url>http://svn.ct.com/repos/research/org.json/tags/connecture-1.0</url>
+    </scm>
+  <licenses>
+    <license>
+      <name>provided without support or warranty</name>
+      <url>http://www.json.org/license.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <organization>
+    <name>JSON</name>
+    <url>http://json.org/</url>
+  </organization>
+  <build>
+    <plugins>
+	<plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-release-plugin</artifactId>
+		<configuration>
+			<tagBase>http://svn.ct.com/repos/research/org.json/tags</tagBase>
+			<autoVersionSubmodules>true</autoVersionSubmodules>
+		</configuration>
+	</plugin>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.5</source>
+          <target>1.5</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <dependencies>
+  </dependencies>
+</project>

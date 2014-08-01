@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon May 26 23:10:45 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1401126045736
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:sources\:3.3.0.SP1 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/hibernate/hibernate-core/3.3.0.SP1/hibernate-core-3.3.0.SP1-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1401126009698

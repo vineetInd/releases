@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 15:37:59 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404122879004
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:jar\:sources\:1.6.8 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/aspectj/aspectjweaver/1.6.8/aspectjweaver-1.6.8-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404122866669

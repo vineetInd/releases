@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jul 24 11:48:24 IST 2014
+rhino-1.7R4.jar>central=
+rhino-1.7R4.jar>connecture-maven=
+rhino-1.7R4-sources.jar>connecture-maven=
+rhino-1.7R4-javadoc.jar>connecture-maven=
+rhino-1.7R4.pom>connecture-maven=

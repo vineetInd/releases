@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon May 05 16:45:34 IST 2014
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1398770620814
+http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1399288534896
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.beanshell\:beanshell\:pom\:2.0b4 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom

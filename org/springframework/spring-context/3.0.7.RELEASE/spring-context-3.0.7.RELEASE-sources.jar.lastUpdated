@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 15:30:24 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404122424061
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:sources\:3.0.7.RELEASE from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404122419769

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 01 11:29:48 IST 2014
+objenesis-1.2.jar>connecture-maven=
+objenesis-1.2-sources.jar>central=
+objenesis-1.2-javadoc.jar>connecture-maven=
+objenesis-1.2.pom>connecture-maven=

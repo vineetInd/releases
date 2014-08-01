@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:29:57 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404125997533
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:sources\:1.1.1 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404125995726

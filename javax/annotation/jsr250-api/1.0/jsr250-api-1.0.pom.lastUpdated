@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon May 05 16:45:43 IST 2014
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1398770622892
+http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1399288543617
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.annotation\:jsr250-api\:pom\:1.0 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom

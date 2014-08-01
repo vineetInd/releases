@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 15:44:41 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404123281779
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-test\:jar\:sources\:2.5.4 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/springframework/spring-test/2.5.4/spring-test-2.5.4-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404123221430

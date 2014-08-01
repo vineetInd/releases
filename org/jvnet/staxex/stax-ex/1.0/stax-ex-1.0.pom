@@ -1,0 +1,72 @@
+<project>
+  <pomVersion>3</pomVersion>
+  <groupId>org.jvnet.staxex</groupId>
+  <artifactId>stax-ex</artifactId>
+  <name>Extended StAX API</name>
+  <currentVersion>1.0</currentVersion>
+  <description>Extensions to JSR-173 StAX API.</description>
+  <issueTrackingUrl>https://stax-ex.dev.java.net/servlets/ProjectIssues</issueTrackingUrl>
+  <mailingLists>
+    <mailingList>
+      <name>Announcement List</name>
+      <subscribe>announce-subscribe@stax-ex.dev.java.net</subscribe>
+      <unsubscribe>announce-unsubscribe@stax-ex.dev.java.net</unsubscribe>
+      <archive>https://stax-ex.dev.java.net/servlets/SummarizeList?listName=announce</archive>
+    </mailingList>
+    <mailingList>
+      <name>Developer List</name>
+      <subscribe>dev-subscribe@stax-ex.dev.java.net</subscribe>
+      <unsubscribe>dev-unsubscribe@stax-ex.dev.java.net</unsubscribe>
+      <archive>https://stax-ex.dev.java.net/servlets/SummarizeList?listName=dev</archive>
+    </mailingList>
+    <mailingList>
+      <name>Users List</name>
+      <subscribe>users-subscribe@stax-ex.dev.java.net</subscribe>
+      <unsubscribe>users-unsubscribe@stax-ex.dev.java.net</unsubscribe>
+      <archive>https://stax-ex.dev.java.net/servlets/SummarizeList?listName=users</archive>
+    </mailingList>
+    <mailingList>
+      <name>Issues List</name>
+      <subscribe>issues-subscribe@stax-ex.dev.java.net</subscribe>
+      <unsubscribe>issues-unsubscribe@stax-ex.dev.java.net</unsubscribe>
+      <archive>https://stax-ex.dev.java.net/servlets/SummarizeList?listName=issues</archive>
+    </mailingList>
+    <mailingList>
+      <name>CVS List</name>
+      <subscribe>cvs-subscribe@stax-ex.dev.java.net</subscribe>
+      <unsubscribe>cvs-unsubscribe@stax-ex.dev.java.net</unsubscribe>
+      <archive>https://stax-ex.dev.java.net/servlets/SummarizeList?listName=cvs</archive>
+    </mailingList>
+  </mailingLists>
+  <repository>
+    <connection>scm:cvs:pserver:guest@cvs.dev.java.net:/cvs:stax-ex</connection>
+    <url>https://stax-ex.dev.java.net/source/browse/stax-ex</url>
+  </repository>
+  <organization>
+    <name>java.net</name>
+    <url>http://java.net/</url>
+    <logo>https://stax-ex.dev.java.net/branding/images/header_jnet_new.jpg</logo>
+  </organization>
+  <package>org.jvnet.staxex</package>
+  <build>
+    <sourceDirectory>src/java</sourceDirectory>
+    <unitTest />
+    <resources>
+      <resource>
+        <directory>src/resources</directory>
+      </resource>
+    </resources>
+  </build>
+  <dependencies>
+    <dependency>
+      <groupId>stax</groupId>
+      <artifactId>stax-api</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>activation</groupId>
+      <artifactId>activation</artifactId>
+      <version>1.0</version>
+    </dependency>
+  </dependencies>
+</project>

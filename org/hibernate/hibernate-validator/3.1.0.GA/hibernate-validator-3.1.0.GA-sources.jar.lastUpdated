@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:09:07 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404124747814
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:jar\:sources\:3.1.0.GA from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/hibernate/hibernate-validator/3.1.0.GA/hibernate-validator-3.1.0.GA-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404124746104

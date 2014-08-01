@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon May 05 16:45:42 IST 2014
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1398770622769
+http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1399288542883
+https\://shibboleth.net/nexus/content/groups/public/.error=Could not transfer artifact org.apache.xerces\:serializer\:pom\:2.10.0 from/to shib-release (https\://shibboleth.net/nexus/content/groups/public)\: null to https\://shibboleth.net/nexus/content/groups/public/org/apache/xerces/serializer/2.10.0/serializer-2.10.0.pom
+default-https\://shibboleth.net/nexus/content/groups/public/.lastUpdated=1398770622775
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.xerces\:serializer\:pom\:2.10.0 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/org/apache/xerces/serializer/2.10.0/serializer-2.10.0.pom
