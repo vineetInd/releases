@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 15:53:29 IST 2014
+httpcore-4.2.2.jar>connecture-maven=
+httpcore-4.2.2-sources.jar>central=
+httpcore-4.2.2.pom>connecture-maven=

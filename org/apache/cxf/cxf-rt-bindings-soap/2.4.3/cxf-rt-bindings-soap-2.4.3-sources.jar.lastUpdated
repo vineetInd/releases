@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 30 16:14:59 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1404125099182
+http\://svn.ct.com\:8280/nexus/content/groups/public/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-bindings-soap\:jar\:sources\:2.4.3 from/to connecture-maven (http\://svn.ct.com\:8280/nexus/content/groups/public/)\: connection timed out to http\://svn.ct.com\:8280/nexus/content/groups/public/org/apache/cxf/cxf-rt-bindings-soap/2.4.3/cxf-rt-bindings-soap-2.4.3-sources.jar
+default-http\://svn.ct.com\:8280/nexus/content/groups/public/.lastUpdated=1404125096852

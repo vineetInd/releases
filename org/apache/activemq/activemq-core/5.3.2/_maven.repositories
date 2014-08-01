@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 01 11:41:17 IST 2014
+activemq-core-5.3.2.pom>connecture-maven=
+activemq-core-5.3.2-javadoc.jar>connecture-maven=
+activemq-core-5.3.2.jar>connecture-maven=
+activemq-core-5.3.2-sources.jar>central=

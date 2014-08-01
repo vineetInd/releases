@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 01 11:41:37 IST 2014
+activemq-protobuf-1.0.jar>connecture-maven=
+activemq-protobuf-1.0-sources.jar>central=
+activemq-protobuf-1.0-javadoc.jar>connecture-maven=
+activemq-protobuf-1.0.pom>connecture-maven=
